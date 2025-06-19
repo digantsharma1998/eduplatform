@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eduplatform-dev-a0172-authRole",
+      "UnauthRoleArn": "arn:aws:iam::319641749762:role/amplify-eduplatform-dev-a0172-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::319641749762:role/amplify-eduplatform-dev-a0172-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eduplatform-dev-a0172-deployment",
+      "UnauthRoleName": "amplify-eduplatform-dev-a0172-unauthRole",
+      "StackName": "amplify-eduplatform-dev-a0172",
+      "StackId": "arn:aws:cloudformation:us-east-1:319641749762:stack/amplify-eduplatform-dev-a0172/f2c70780-4cca-11f0-aee6-0affea2ba041",
+      "AmplifyAppId": "d3hgngy5ja7klb"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eduplatform-prod-71fbd-authRole",
+      "UnauthRoleArn": "arn:aws:iam::319641749762:role/amplify-eduplatform-prod-71fbd-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::319641749762:role/amplify-eduplatform-prod-71fbd-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eduplatform-prod-71fbd-deployment",
+      "UnauthRoleName": "amplify-eduplatform-prod-71fbd-unauthRole",
+      "StackName": "amplify-eduplatform-prod-71fbd",
+      "StackId": "arn:aws:cloudformation:us-east-1:319641749762:stack/amplify-eduplatform-prod-71fbd/a1f3d8f0-4ccb-11f0-98b7-0e5fd5647131",
+      "AmplifyAppId": "d3hgngy5ja7klb"
+    }
+  }
+}
