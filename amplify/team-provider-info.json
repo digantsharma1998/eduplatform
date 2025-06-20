@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eduplatform-dev-115338-authRole",
+      "UnauthRoleArn": "arn:aws:iam::319641749762:role/amplify-eduplatform-dev-115338-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::319641749762:role/amplify-eduplatform-dev-115338-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eduplatform-dev-115338-deployment",
+      "UnauthRoleName": "amplify-eduplatform-dev-115338-unauthRole",
+      "StackName": "amplify-eduplatform-dev-115338",
+      "StackId": "arn:aws:cloudformation:us-east-1:319641749762:stack/amplify-eduplatform-dev-115338/1bead900-4d9f-11f0-ba6c-12e3210ef7f1",
+      "AmplifyAppId": "d3qygeqjsrqmy0"
+    }
+  }
+}
